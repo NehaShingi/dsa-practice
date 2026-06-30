@@ -1,3 +1,3 @@
-# Arrays
+# Binary Search
 
-Problems and notes related to arrays.
+Problems and notes related to binary search.
