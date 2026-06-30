@@ -1,3 +1,3 @@
 # Binary Search
 
-Problems and notes related to binary search.
+Problems related to binary search.
